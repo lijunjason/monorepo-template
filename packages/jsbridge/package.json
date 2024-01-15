@@ -1,0 +1,8 @@
+{
+  "name": "@phone-bar/jsbridge",
+  "version": "1.1.0",
+  "main": "./src/index.js",
+  "publishConfig": {
+    "access": "public"
+  }
+}
